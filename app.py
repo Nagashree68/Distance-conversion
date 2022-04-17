@@ -1,4 +1,4 @@
-print("-------")
+print("------sss-")
 print("|     |")
 print("|     |")
-print("------")
+print("------nnn")
