@@ -1,0 +1,16 @@
+heroes = ["Raj","Punith","Sudeep","Darshan","Yuvi","Yash"]
+#heroes.append("Shivu")
+#heroes.insert(2,"Uppi")
+#heroes.remove("Yash")
+#heroes.clear()
+#heroes.pop()
+#heroes.pop()
+#heroes.pop()
+print(heroes.index("Darshan"))
+#print(heroes.index("Kushi"))
+print("Saadu"in heroes)
+print(heroes.count("Sudeep"))
+heroes.sort()
+print(heroes)
+
+print(heroes)
